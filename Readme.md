@@ -1,1 +1,1 @@
-Create a bucket list app using Angular and Python
+Create a bucket list app using Angular and Python.
